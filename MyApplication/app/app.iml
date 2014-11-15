@@ -81,8 +81,11 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/symbols" />
       <excludeFolder url="file://$MODULE_DIR$/build/outputs" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <excludeFolder url="file://$MODULE_DIR$/build/tmp" />
 >>>>>>> origin/master
+=======
+>>>>>>> parent of 1bbab2b... got it running
 =======
 >>>>>>> parent of 1bbab2b... got it running
     </content>
